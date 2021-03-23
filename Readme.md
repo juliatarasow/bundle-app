@@ -2,4 +2,4 @@
 
 Creating JS project and building with parcel
 
-Online version, pls [click...!] (https://github.com/juliatarasow/bundle-app.git)
+Online version, pls [click...!] (https://juliatarasow.github.io/bundle-app/)
